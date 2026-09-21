@@ -1,0 +1,18 @@
+{
+  "_note": "Copy this file, rename it (for example bakery.json) and fill in every field.",
+  "business_name": "",
+  "business_type": "",
+  "city": "",
+  "target_audience": "",
+  "services": [
+    "",
+    ""
+  ],
+  "unique_selling_points": [
+    "",
+    ""
+  ],
+  "tone": "",
+  "primary_action": "",
+  "extra_rules": "None"
+}

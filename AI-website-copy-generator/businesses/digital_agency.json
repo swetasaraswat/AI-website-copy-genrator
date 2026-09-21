@@ -1,0 +1,22 @@
+{
+  "_note": "Fictional sample business, used to demo the templates.",
+  "business_name": "PixelNest Digital",
+  "business_type": "Small digital agency",
+  "city": "Lucknow",
+  "target_audience": "Local shop owners, restaurants and coaching institutes that have no in-house marketing person",
+  "services": [
+    "Website design",
+    "Social media management",
+    "Google Business Profile setup",
+    "Local SEO",
+    "Ad campaigns"
+  ],
+  "unique_selling_points": [
+    "Fixed-price packages, no surprise bills",
+    "Monthly reports written in plain language",
+    "One person to call for everything"
+  ],
+  "tone": "Straightforward, confident and jargon-free.",
+  "primary_action": "Book a free 20-minute call",
+  "extra_rules": "Avoid marketing jargon such as ROI, funnel, synergy or growth hacking. Do not promise rankings, follower counts or sales numbers."
+}

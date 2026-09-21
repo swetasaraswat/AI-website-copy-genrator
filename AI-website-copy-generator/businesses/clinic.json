@@ -1,0 +1,22 @@
+{
+  "_note": "Fictional sample business, used to demo the templates.",
+  "business_name": "CareFirst Family Clinic",
+  "business_type": "Family clinic",
+  "city": "Aligarh",
+  "target_audience": "Families, working adults and parents of young children",
+  "services": [
+    "General consultation",
+    "Child health check-ups and vaccination",
+    "Diabetes and blood pressure check-ups",
+    "Basic lab tests",
+    "Online consultation"
+  ],
+  "unique_selling_points": [
+    "Evening appointment slots",
+    "Doctors who speak Hindi and English",
+    "Visits by appointment, to keep waiting time short"
+  ],
+  "tone": "Calm, reassuring and respectful. Plain words, no medical jargon.",
+  "primary_action": "Book a consultation by phone",
+  "extra_rules": "Do not promise cures, results or outcomes. Do not use fear or urgency to push people to book. Do not give medical advice. Do not name doctors or qualifications unless they are given above."
+}

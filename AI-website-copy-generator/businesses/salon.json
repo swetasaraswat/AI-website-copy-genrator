@@ -1,0 +1,22 @@
+{
+  "_note": "Fictional sample business, used to demo the templates.",
+  "business_name": "Rang Beauty Studio",
+  "business_type": "Women's salon",
+  "city": "Aligarh",
+  "target_audience": "Women and brides-to-be in Aligarh, from college students to families planning a wedding",
+  "services": [
+    "Haircut and styling",
+    "Hair spa",
+    "Bridal makeup",
+    "Facial and clean-up",
+    "Threading and waxing"
+  ],
+  "unique_selling_points": [
+    "Women-only space with an all-women team",
+    "Bridal trial included before the wedding day",
+    "Open on Sundays"
+  ],
+  "tone": "Warm, friendly and confident. Like a good friend who happens to be great with hair.",
+  "primary_action": "Book an appointment on WhatsApp",
+  "extra_rules": "Do not promise specific results (for example 'guaranteed glow'). Do not mention product brands."
+}

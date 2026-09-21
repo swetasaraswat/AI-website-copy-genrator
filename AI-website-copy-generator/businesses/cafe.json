@@ -1,0 +1,21 @@
+{
+  "_note": "Fictional sample business, used to demo the templates.",
+  "business_name": "Brew Adda",
+  "business_type": "Café",
+  "city": "Aligarh",
+  "target_audience": "College students, young professionals and small groups of friends",
+  "services": [
+    "Cold brew and filter coffee",
+    "Sandwiches and pasta",
+    "Desserts",
+    "Small event bookings"
+  ],
+  "unique_selling_points": [
+    "Free Wi-Fi and charging points",
+    "Open until 11 pm",
+    "Comfortable seating that works for studying or catching up"
+  ],
+  "tone": "Casual, playful and relaxed. Short sentences, a little humour, no forced slang.",
+  "primary_action": "Reserve a table by phone or WhatsApp",
+  "extra_rules": "Do not mention prices or menu item names that are not listed above."
+}
